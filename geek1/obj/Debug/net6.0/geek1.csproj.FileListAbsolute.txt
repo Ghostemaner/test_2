@@ -1,0 +1,15 @@
+/Users/Maksim/Desktop/test_2/geek1/bin/Debug/net6.0/geek1
+/Users/Maksim/Desktop/test_2/geek1/bin/Debug/net6.0/geek1.deps.json
+/Users/Maksim/Desktop/test_2/geek1/bin/Debug/net6.0/geek1.runtimeconfig.json
+/Users/Maksim/Desktop/test_2/geek1/bin/Debug/net6.0/geek1.dll
+/Users/Maksim/Desktop/test_2/geek1/bin/Debug/net6.0/geek1.pdb
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.csproj.AssemblyReference.cache
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.AssemblyInfoInputs.cache
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.AssemblyInfo.cs
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.csproj.CoreCompileInputs.cache
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.dll
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/refint/geek1.dll
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.pdb
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/geek1.genruntimeconfig.cache
+/Users/Maksim/Desktop/test_2/geek1/obj/Debug/net6.0/ref/geek1.dll
